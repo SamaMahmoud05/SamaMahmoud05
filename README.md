@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" alt="Sama Mahmoud" width="1000" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Howdy 👋, I'm Sama Mahmoud</h1>
+<h1 align="center">Howdy 👋, I'm SAMA</h1>
 <h3 align="center">Computer Science Student | ACU University </h3>
 
 ---
